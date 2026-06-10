@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+firebase-admin
+sqlalchemy
+pymysql
+python-dotenv
+pydantic
+passlib[bcrypt]
+rapidfuzz
+beautifulsoup4 

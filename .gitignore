@@ -1,0 +1,17 @@
+# Environment files
+.env
+
+# Firebase / secrets
+*.json
+serviceAccountKey.json
+
+# Flutter build
+build/
+.dart_tool/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/

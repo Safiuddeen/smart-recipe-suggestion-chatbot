@@ -4,7 +4,7 @@
 # Firebase / secrets
 *.json
 serviceAccountKey.json
-lib/firebase_options.dart
+firebase_options.dart
 
 # Flutter build
 build/
